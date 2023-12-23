@@ -1,0 +1,27 @@
+﻿  AICom.cpp
+  Chess.cpp
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(20,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(20,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(21,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(21,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(34,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(35,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(36,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(37,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(38,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(44,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(54,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(56,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(67,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(68,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(78,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(79,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(80,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(96,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(97,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  game.cpp
+  main.cpp
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\main.cpp(11,26): warning C4305: “参数”: 从“double”到“float”截断
+  player.cpp
+  正在生成代码...
+  Gomoku.vcxproj -> C:\Users\Kasum\Source\Repos\Gomoku\x64\Debug\Gomoku.exe

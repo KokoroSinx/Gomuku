@@ -1,0 +1,44 @@
+﻿  AICom.cpp
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\AICom.cpp(42,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\AICom.cpp(44,21): warning C4018: “<”: 有符号/无符号不匹配
+  Chess.cpp
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(15,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(15,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [14]”转换为“LPCTSTR”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(15,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(15,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [14]”转换为“LPCTSTR”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(15,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(15,2): message : 尝试匹配参数列表“(IMAGE *, const wchar_t [14], float, float, bool)”时
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(16,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(16,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [14]”转换为“LPCTSTR”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(16,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(16,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [14]”转换为“LPCTSTR”
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(16,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(16,2): message : 尝试匹配参数列表“(IMAGE *, const wchar_t [14], float, float, bool)”时
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(19,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(20,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(29,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(30,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(31,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(32,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(33,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(39,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(49,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(51,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(62,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(63,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(73,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(74,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(75,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(91,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\Chess.cpp(92,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  game.cpp
+  main.cpp
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\main.cpp(11,26): warning C4305: “参数”: 从“double”到“float”截断
+  player.cpp
+  tools.cpp
+C:\Users\Kasum\Source\Repos\Gomoku\Gomoku\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  正在生成代码...
