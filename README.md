@@ -30,7 +30,7 @@ GOMOKUは、一目で碁と似合うゲームです。ルールはとても簡�
 
 -[https://github.com/KokoroSinx/Gomuku](https://github.com/KokoroSinx/Gomuku)
 
-# 总之试玩一下吧
+# まず遊んでみよう！
 
 試遊のビデオはGoogleドライブに保存しました。
 -[https://drive.google.com/file/d/1XRZ1qGhBpxn9qxqgjPyFzm7qGCwWbDEU/view?usp=sharing](https://drive.google.com/file/d/1XRZ1qGhBpxn9qxqgjPyFzm7qGCwWbDEU/view?usp=sharing)
